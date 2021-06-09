@@ -18,7 +18,7 @@ Fetch cloud-hosted video files to process and manipulate them within your applic
 Perform video properties editing and converting operations within your C#, .NET cloud-based apps via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/video/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/video/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

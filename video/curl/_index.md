@@ -237,7 +237,7 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Video also offers, Video files processing SDKs for other popular languages, as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/video/net" imgSrc="/sdk/aspose_video-for-net.png" sdkName="Aspose.Video Cloud SDK for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.png" sdkName="Aspose.Video Cloud SDK for .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

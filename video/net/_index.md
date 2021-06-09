@@ -247,7 +247,7 @@ var actual = this.VideoApi.PostConvertVideo(request);
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Video also offers, Video files processing SDKs for other popular languages, as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/video/curl" imgSrc="/sdk/aspose_video-for-curl.png" sdkName="Aspose.Video Cloud SDK for cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.png" sdkName="Aspose.Video Cloud SDK for cURL" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
