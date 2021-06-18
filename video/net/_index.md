@@ -143,7 +143,7 @@ url: /net
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.3D Cloud for .NET - some of supported languages and platforms." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Video Cloud for .NET - some of supported languages and platforms." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 
