@@ -11,11 +11,11 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Video Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Video" title="Cloud for cURL" imgSrc="/sdk/aspose_video-for-curl.png" productLink="/video/curl/" >}}
+{{< blocks/products/pf/product productLink="/video/curl/" pfName="Aspose.Video" title="Cloud for cURL" imgSrc="/sdk/aspose_video-for-curl.png" productLink="/video/curl/" >}}
 Fetch, re-encode, combine & convert cloud-based video files using cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Video" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_video-for-net.png" productLink="/video/net/" >}}
+{{< blocks/products/pf/product productLink="/video/net/" pfName="Aspose.Video" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_video-for-net.png" productLink="/video/net/" >}}
 Build video converter, re-encoder, merger, and watermarking cloud-based apps in C# or other .NET languages.
 {{< /blocks/products/pf/product >}}
 
