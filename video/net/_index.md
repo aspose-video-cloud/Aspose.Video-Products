@@ -300,7 +300,7 @@ url: /net
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Video" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.png" platform="cURL" >}}
     {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.png" platform=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
