@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Combine & Convert Cloud Videos via cURL" h2="Fetch video files stored on the cloud, adjust video properties, re-encode, combine & convert video files using cURL via REST API." logoImageSrc="/headers/aspose_video-for-curl.png" pfName="Aspose.Video" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Combine & Convert Cloud Videos via cURL" h2="Fetch video files stored on the cloud, adjust video properties, re-encode, combine & convert video files using cURL via REST API." logoImageSrc="/headers/aspose_video-for-curl.svg" pfName="Aspose.Video" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Video" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_video-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/video" directDownloadLink="https://github.com/aspose-video-cloud" liveDemosLink="https://products.aspose.app/video/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_video-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/video" directDownloadLink="https://github.com/aspose-video-cloud" liveDemosLink="https://products.aspose.app/video/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Video Cloud for cURL helps cloud app developers in seamlessly integrating video processing and manipulation functionality into their cloud-based apps to let their end-users fetch video files hosted on the cloud storage and process them within your applications without installing any 3rd party software.</p>
@@ -70,7 +70,7 @@ url: /curl
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Video file Manipulation using cURL commands" src="/sdk/aspose_video-for-curl.png"/>
+  <img alt="Video file Manipulation using cURL commands" src="/sdk/aspose_video-for-curl.svg"/>
   <header>
    Aspose.Video
   </header>
@@ -137,7 +137,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_video-for-curl.png" alt="Video file Manipulation using cURL commands" /><header>Aspose.Video</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_video-for-curl.svg" alt="Video file Manipulation using cURL commands" /><header>Aspose.Video</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -298,8 +298,8 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Video" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.svg" platform=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

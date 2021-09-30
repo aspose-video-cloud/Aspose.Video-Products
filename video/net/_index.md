@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Combine & Convert Cloud Videos via .NET" h2="Fetch video files stored on the cloud, adjust video properties, re-encode, combine & convert video files using .NET via REST API." logoImageSrc="/headers/aspose_video-for-net.png" pfName="Aspose.Video" subTitlepfName="Cloud for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Combine & Convert Cloud Videos via .NET" h2="Fetch video files stored on the cloud, adjust video properties, re-encode, combine & convert video files using .NET via REST API." logoImageSrc="/headers/aspose_video-for-net.svg" pfName="Aspose.Video" subTitlepfName="Cloud for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Video" subTitlepfName="Cloud for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_video-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/video" directDownloadLink="https://github.com/aspose-video-cloud/aspose-video-cloud-dotnet" liveDemosLink="https://products.aspose.app/video/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_video-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/video" directDownloadLink="https://github.com/aspose-video-cloud/aspose-video-cloud-dotnet" liveDemosLink="https://products.aspose.app/video/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Video Cloud SDK for .NET helps your C#, ASP.NET and other .NET based cloud applications to fetch video files from the cloud and edit them within your applications without installing any third-party software. Aspose.Video Cloud SDK for .NET is offered to you under an MIT license.</p>
@@ -71,7 +71,7 @@ url: /net
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Video file Manipulation using .NET commands" src="/sdk/aspose_video-for-net.png"/>
+  <img alt="Video file Manipulation using .NET commands" src="/sdk/aspose_video-for-net.svg"/>
   <header>
    Aspose.Video
   </header>
@@ -138,7 +138,7 @@ url: /net
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_video-for-net.png" alt="Video file Manipulation using .NET commands" /><header>Aspose.Video</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_video-for-net.svg" alt="Video file Manipulation using .NET commands" /><header>Aspose.Video</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -300,8 +300,8 @@ url: /net
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Video" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/curl/" imgSrc="/sdk/aspose_video-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/video/net/" imgSrc="/sdk/aspose_video-for-net.svg" platform=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -6,16 +6,16 @@ url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cloud SDKs & REST APIs to Fetch & Process Videos" h2="REST APIs to fetch video files hosted at cloud platforms within your cURL, C# or other .NET apps for processing & conversion." logoImageSrc="/headers/aspose_video.png" pfName="Aspose.Video" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Cloud SDKs & REST APIs to Fetch & Process Videos" h2="REST APIs to fetch video files hosted at cloud platforms within your cURL, C# or other .NET apps for processing & conversion." logoImageSrc="/headers/aspose_video.svg" pfName="Aspose.Video" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Video Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/video/curl/" pfName="Aspose.Video" title="Cloud for cURL" imgSrc="/sdk/aspose_video-for-curl.png" productLink="/video/curl/" >}}
+{{< blocks/products/pf/product productLink="/video/curl/" pfName="Aspose.Video" title="Cloud for cURL" imgSrc="/sdk/aspose_video-for-curl.svg" productLink="/video/curl/" >}}
 Fetch, re-encode, combine & convert cloud-based video files using cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/video/net/" pfName="Aspose.Video" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_video-for-net.png" productLink="/video/net/" >}}
+{{< blocks/products/pf/product productLink="/video/net/" pfName="Aspose.Video" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_video-for-net.svg" productLink="/video/net/" >}}
 Build video converter, re-encoder, merger, and watermarking cloud-based apps in C# or other .NET languages.
 {{< /blocks/products/pf/product >}}
 
