@@ -34,7 +34,7 @@ Build video converter, re-encoder, merger, and watermarking cloud-based apps in 
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/video" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/video/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/video/" >}}
+
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Video Cloud Product Family?" tabId="success-stories" >}}

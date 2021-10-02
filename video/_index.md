@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Video File Converter & Editor Solution" h2="Cloud REST APIs to access videos hosted on the cloud & perform encoding, adjust properties, apply watermark, & convert." logoImageSrc="/headers/aspose_video-brand.svg" imageAlt="Aspose.Video Brand" >}}
+{{< blocks/products/pf/family-upper-banner h1="Video File Converter & Editor Solution" h2="Cloud REST APIs to access videos hosted on the cloud & perform encoding, adjust properties, apply watermark, & convert." logoImageSrc="/headers/aspose_video.svg" imageAlt="Aspose.Video Brand" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Video Cloud APIs Include" >}}
